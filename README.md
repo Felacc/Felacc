@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Felacc
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning C
+- 👀 I’m interested in computer science and programming
+- 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me fmichel333@gmail.com, I am just a beginner so do not reach out please :)
 
