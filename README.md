@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Felacc
-- 👀 I’m interested in: computer science and programming
-- 🌱 I’m currently learning: the basics
-- 💞️ I’m looking to collaborate on: nothing yet
-- 📫 How to reach me: (I am just a beginner so do not reach out please)
+I'm new to the world and development and currently learning the basics.
 
 <!---
 Felacc/Felacc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
