@@ -1,4 +1,4 @@
-I'm new to the world of software development and currently learning the basics.
+Hello! I am Information and Computer Systems student in my first year.
 
 <!---
 Felacc/Felacc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
